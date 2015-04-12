@@ -49,7 +49,7 @@ def buildClusterNameMap(filename):
     return clusterNameMap
 
 def main():
-    print decode_address_to_coordinates("3299 14TH STREET NW, DC")
+    #print decode_address_to_coordinates("3299 14TH STREET NW, DC")
     records = {}
     crimeRankMap = buildRankMap("dataweights.txt")
     #crimeRankMap = {"SEX ABUSE": 7,
@@ -80,8 +80,8 @@ def main():
 #        print key + " -> " + str(crimeRankMap[key])
     test_data = {}
     for key in records.keys():
-        cluster = records[key]["NEIGHBORHOODCLUSTER"]
-        #cluster = records[key]["BLOCKSITEADDRESS"]
+        #cluster = records[key]["NEIGHBORHOODCLUSTER"]
+        cluster = records[key]["BLOCKSITEADDRESS"]
         crime = records[key]["OFFENSE"]
         method = records[key]["METHOD"]
         
@@ -98,9 +98,9 @@ def main():
     sortedSketch = sorted(test_data.items(), key=operator.itemgetter(1))
 
     for t in sortedSketch:
-        #print t
-        for place in clusterNameMap[t[0]]:
-            print place.strip() + "," + str(t[1])
+        print t
+        #for place in clusterNameMap[t[0]]:
+        #    print place.strip() + "," + str(t[1])
         #print str(clusterNameMap[t[0]]) + " -> " + str(t[1])
         
     #print "meow"
