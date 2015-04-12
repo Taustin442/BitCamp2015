@@ -1,0 +1,127 @@
+Near Southeast,11685.5
+Navy Yard,11685.5
+North Cleveland Park,13009.0
+Forest Hills,13009.0
+Van Ness,13009.0
+Spring Valley,13337.0
+Palisades,13337.0
+Wesley Heights,13337.0
+Foxhall Crescent,13337.0
+Foxhall Village,13337.0
+Georgetown Reservoir,13337.0
+Eastland Gardens,14496.5
+Kenilworth,14496.5
+Colonial Village,15211.0
+Shepherd Park,15211.0
+North Portal Estates,15211.0
+Cathedral Heights,17088.0
+McLean Gardens,17088.0
+Glover Park,17088.0
+Hawthorne,20339.5
+Barnaby Woods,20339.5
+Chevy Chase,20339.5
+Cleveland Park,26419.0
+Woodley Park,26419.0
+Massachusetts Avenue Heights,26419.0
+Woodland-Normanstone Terrace,26419.0
+West End,31034.0
+Foggy Bottom,31034.0
+GWU,31034.0
+Fairfax Village,35358.0
+Naylor Gardens,35358.0
+Hillcrest,35358.0
+Summit Park,35358.0
+Friendship Heights,36302.5
+American University Park,36302.5
+Tenleytown,36302.5
+Woodridge,36604.0
+Fort Lincoln,36604.0
+Gateway,36604.0
+North Michigan Park,36608.5
+Michigan Park,36608.5
+University Heights,36608.5
+Lamond Riggs,39116.5
+Queens Chapel,39116.5
+Fort Totten,39116.5
+Pleasant Hill,39116.5
+Southwest Employment Area,51152.5
+Southwest/Waterfront,51152.5
+Fort McNair,51152.5
+Buzzard Point,51152.5
+Georgetown,52989.0
+Burleith/Hillandale,52989.0
+Mayfair,53116.0
+Hillbrook,53116.0
+Mahaning Heights,53116.0
+Historic Anacostia,53669.0
+Woodland/Fort Stanton,62906.5
+Garfield Heights,62906.5
+Knox Hill,62906.5
+Kalorama Heights,76938.0
+Adams Morgan,76938.0
+Lanier Heights,76938.0
+Sheridan,81620.5
+Barry Farm,81620.5
+Buena Vista,81620.5
+Takoma,82393.5
+Brightwood,82393.5
+Manor Park,82393.5
+Shaw,91467.5
+Logan Circle,91467.5
+Twining,96551.0
+Fairlawn,96551.0
+Randle Highlands,96551.0
+Penn Branch,96551.0
+Fort Davis Park,96551.0
+Dupont Park,96551.0
+Douglass,96584.0
+Shipley Terrace,96584.0
+River Terrace,100579.5
+Benning,100579.5
+Greenway,100579.5
+Fort Dupont,100579.5
+Brookland,101607.0
+Brentwood,101607.0
+Langdon,101607.0
+Deanwood,118019.5
+Burrville,118019.5
+Grant Park,118019.5
+Lincoln Heights,118019.5
+Fairmont Heights,118019.5
+Capitol View,121580.5
+Marshall Heights,121580.5
+Benning Heights,121580.5
+Howard University,121710.0
+Le Droit Park,121710.0
+Cardozo/Shaw,121710.0
+Capitol Hill,121955.5
+Lincoln Park,121955.5
+Edgewood,130745.5
+Bloomingdale,130745.5
+Truxton Circle,130745.5
+Eckington,130745.5
+Dupont Circle,131325.0
+Connecticut Avenue/K Street,131325.0
+Ivy City,144229.0
+Arboretum,144229.0
+Trinidad,144229.0
+Carver Langston,144229.0
+Downtown,148793.0
+Chinatown,148793.0
+Penn Quarters,148793.0
+Mount Vernon Square,148793.0
+North Capitol Street,148793.0
+NoMa,166788.5
+Union Station,166788.5
+Stanton Park,166788.5
+Kingman Park,166788.5
+Brightwood Park,169146.0
+Crestwood,169146.0
+Petworth,169146.0
+Congress Heights,229563.5
+Bellevue,229563.5
+Washington Highlands,229563.5
+Columbia Heights,259886.5
+Mt. Pleasant,259886.5
+Pleasant Plains,259886.5
+Park View,259886.5

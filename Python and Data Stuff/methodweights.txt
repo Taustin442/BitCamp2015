@@ -1,0 +1,3 @@
+1,OTHERS
+1.2,KNIFE
+1.5,GUN
